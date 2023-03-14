@@ -21,3 +21,20 @@ You need Autodesk Fusion360 (non commercial version is fre) to generate your own
 Segment Size is a fixed constant value that represents the default size of my boxes. I then use multiples of it for height, width and length to generate different versions of it.
   
   ![Change Paramaters Dialog in Fusion360](images/BoxParameters.PNG)
+
+## Ready to go STL variants
+
+Multiples of segment length (default 74mm): 1, 1.5 and 2x
+
+- 74 x 74 x 26
+- 74 x 111 x 26
+- 74 x 148 x 26
+- 74 x 74 x 52
+- 74 x 111 x 52
+- 74 x 148 x 52
+- 74 x 74 x 26 Split
+- 74 x 111 x 26 Split
+- 74 x 148 x 26 Split
+- 74 x 74 x 52 Split
+- 74 x 111 x 52 Split
+- 74 x 148 x 52 Split
